@@ -1,2 +1,0 @@
-"Median Score = 39.99
-Percentage =90.48% (Score>20)"
